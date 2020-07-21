@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321272585309",
+    "firebase_url": "https://app-social-c19f6.firebaseio.com",
+    "project_id": "app-social-c19f6",
+    "storage_bucket": "app-social-c19f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321272585309:android:3bbacbe43344ba263281b4",
+        "android_client_info": {
+          "package_name": "com.iwalnexus.tsn.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321272585309-gpjl9dcah9tc2d8vptrtbekvpanjen7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPWOUptRcWI3VXYosws7SwDKkPgumZQnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321272585309-gpjl9dcah9tc2d8vptrtbekvpanjen7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

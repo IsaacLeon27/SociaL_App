@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social App</string>
+    <string name="share">Comparte tus pensamientos</string>
+    <string name="publish">Publicar</string>
+</resources>
